@@ -1,2 +1,2 @@
 # tabs-counter-extension
-An extension how many tabs in the browser were open at a specific point in time
+An extension that counts and records how many tabs were open in the browser at a specific point in time
